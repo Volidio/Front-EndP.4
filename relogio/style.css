@@ -1,0 +1,14 @@
+        body {
+            background-color: #111;
+            color: #00ff88;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        #relogio {
+            font-size: 60px;
+            letter-spacing: 3px;
+        }
